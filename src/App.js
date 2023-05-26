@@ -1,12 +1,10 @@
-let message;
-
-message = 'I will add another line to test with.';
+//import logo from './logo.svg';
+//import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello World, Again!</h1>
-      alert(message);
+      <h1>Hello World!</h1>
     </div>
   );
 }
